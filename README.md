@@ -1,4 +1,4 @@
 website
 =======
 
-Dude web page.
+The Strange Times web page.
